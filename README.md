@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋😁, I'm Triss</h1>
-<h3 align="center">I'm a Software Developer with a passion for creating and building user-friendly Web Apps that promote creativity and learning. I strongly believe that technology has the power to benefit everyone. I have always been eager to learn new skills and find great satisfaction in being able to create something from scratch. If I'm not coding, I like to knit, draw graphite sketch art and play strategy games.</h3>
+<h3 align="center">
+My journey into tech began over 15 years ago when I discovered my passion for coding and creating online spaces for friends.
+
+During a transformative gap year, I struck a balance that allowed me to deepen my involvement in the tech field. Eventually started freelancing building websites, CMS and products incorporating third-party APIs among other things. As well as developing a handful of full-stack personal projects.
+
+I joined 100Devs as a Software Developer and sharpened my skills in creating reliable and scalable software. I got to work on greenfield projects and optimised large-scale applications as well as supporting and mentoring entry-level developers.
+During this time, I honed my coding skills and developed a user-friendly educational web app, that connects teachers, students, and parents.
+
+I'm also an active member of a CPACC study group and committed to upholding Accessibility standards in tech.
+
+Now, I'm eager to bring my expertise to a product team, where I can actively contribute to product development and its long-lasting impact.
+</h3>
 
 - 🔭 I’m currently working on my passion project [Knitter Notes](https://github.com/distriss/knitter-notes)
 
