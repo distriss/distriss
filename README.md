@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋😁, I'm Triss</h1>
-<h3 align="center">
+<p>
 My journey into tech began over 15 years ago when I discovered my passion for coding and creating online spaces for friends.
 
 During a transformative gap year, I struck a balance that allowed me to deepen my involvement in the tech field. Eventually started freelancing building websites, CMS and products incorporating third-party APIs among other things. As well as developing a handful of full-stack personal projects.
@@ -10,7 +10,7 @@ During this time, I honed my coding skills and developed a user-friendly educati
 I'm also an active member of a CPACC study group and committed to upholding Accessibility standards in tech.
 
 Now, I'm eager to bring my expertise to a product team, where I can actively contribute to product development and its long-lasting impact.
-</h3>
+</p>
 
 - 🔭 I’m currently working on my passion project [Knitter Notes](https://github.com/distriss/knitter-notes)
 
