@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋😁, I'm Triss</h1>
+<h1 align="center">Hi 👋😊, I'm Triss</h1>
 <p>
-My journey into tech began over 15 years ago when I discovered my passion for coding and creating online spaces for friends.
+Hello!! I'm a Software Developer with over 15 years of coding experience. My tech journey started when I began creating online spaces for friends, igniting my passion for coding.
 
-During a transformative gap year, I struck a balance that allowed me to deepen my involvement in the tech field. Eventually started freelancing building websites, CMS and products incorporating third-party APIs among other things. As well as developing a handful of full-stack personal projects.
+After a transformative gap year, I delved into freelancing, building websites, CMS solutions, and products with third-party APIs. I’ve also developed various full-stack personal projects.
 
-I joined 100Devs as a Software Developer and sharpened my skills in creating reliable and scalable software. I got to work on greenfield projects and optimised large-scale applications as well as supporting and mentoring entry-level developers.
-During this time, I honed my coding skills and developed a user-friendly educational web app, that connects teachers, students, and parents.
+During the pandemic, I set an ambitious goal to create a user-friendly web app for educators, empowering them to share materials and assign homework effortlessly, while students could use this platform to complete and securely submit their assignments online.
 
-I'm also an active member of a CPACC study group and committed to upholding Accessibility standards in tech.
+I honed my skills at 100Devs, working on greenfield projects, optimizing large-scale applications, and mentoring newcomers. I'm also part of a CPACC study group, dedicated to upholding tech accessibility standards.
 
-Now, I'm eager to bring my expertise to a product team, where I can actively contribute to product development and its long-lasting impact.
+Beyond coding, I enjoy knitting, gaming and sketch art. I believe technology has the power to create a positive impact and benefit everyone and look forward to contributing to innovative projects. Let's connect!
+
 </p>
 
 - 🔭 I’m currently working on my passion project [Knitter Notes](https://github.com/distriss/knitter-notes)
