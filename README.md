@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋😊, I'm Triss</h1>
 <p>
-Hello!! I'm a Software Developer with over 15 years of coding experience. My tech journey started when I began creating online spaces for friends, igniting my passion for coding.
-
+Hello there! I'm a Software Developer with an unending passion for coding. My journey into tech started over 15 years ago when I began creating online spaces for friends. 
+  
 After a transformative gap year, I delved into freelancing, building websites, CMS solutions, and products with third-party APIs. I’ve also developed various full-stack personal projects.
 
 During the pandemic, I set an ambitious goal to create a user-friendly web app for educators, empowering them to share materials and assign homework effortlessly, while students could use this platform to complete and securely submit their assignments online.
 
 I honed my skills at 100Devs, working on greenfield projects, optimizing large-scale applications, and mentoring newcomers. I'm also part of a CPACC study group, dedicated to upholding tech accessibility standards.
 
-Beyond coding, I enjoy knitting, gaming and sketch art. I believe technology has the power to create a positive impact and benefit everyone and look forward to contributing to innovative projects. Let's connect!
+Beyond coding, I enjoy knitting, gaming, and sketch art. I believe technology has the power to create a positive impact and benefit everyone and look forward to contributing to innovative projects. Let's connect!
 
 </p>
 
