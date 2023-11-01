@@ -4,7 +4,10 @@ Hello there! I'm a Software Developer with an unending passion for coding. My jo
   
 After a transformative gap year, I delved into freelancing, building websites, CMS solutions, and products with third-party APIs. I’ve also developed various full-stack personal projects.
 
-During the pandemic, I set an ambitious goal to create a user-friendly web app for educators, empowering them to share materials and assign homework effortlessly, while students could use this platform to complete and securely submit their assignments online.
+Knitter-Notes, my web app masterpiece, was born out of a deep love for knitting.
+As a dedicated knitter, I aimed to create a digital haven for fellow enthusiasts, simplifying and
+enhancing their knitting experience. This project reflects my commitment to merging technology
+with personal passions and making a meaningful impact in a niche community.
 
 I honed my skills at 100Devs, working on greenfield projects, optimizing large-scale applications, and mentoring newcomers. I'm also part of a CPACC study group, dedicated to upholding tech accessibility standards.
 
