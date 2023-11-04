@@ -11,7 +11,7 @@ with personal passions and making a meaningful impact in a niche community.
 
 I honed my skills at 100Devs, working on greenfield projects, optimizing large-scale applications, and mentoring newcomers. I'm also part of a CPACC study group, dedicated to upholding tech accessibility standards.
 
-Beyond coding, I enjoy knitting, gaming, and sketch art. I believe technology has the power to create a positive impact and benefit everyone and look forward to contributing to innovative projects. Let's connect!
+Beyond coding, I enjoy knitting, gaming, and sketch art. I believe technology has the power to create a positive impact and benefit everyone and look forward to contributing to exciting projects. Let's connect!
 
 </p>
 
