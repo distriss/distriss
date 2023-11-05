@@ -19,7 +19,7 @@ Beyond coding, I enjoy knitting, gaming, and sketch art. I believe technology ha
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, SQL, React**
 
-- 👩‍💻 Most of my projects are available on my [Portfolio Website](](https://trissmarsh-webdev.netlify.app/))
+- 👩‍💻 Most of my projects are available on my [Portfolio Website](https://trissmarsh-webdev.netlify.app/))
 
 - 💬 Ask me about **my projects**
 
