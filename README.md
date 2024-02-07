@@ -15,7 +15,14 @@ Beyond coding, I enjoy knitting, gaming, and sketch art. I believe technology ha
 
 </p>
 
-- 🔭 I’m currently working on my passion project [Knitter Notes](https://github.com/distriss/knitter-notes)
+
+# Check out KnitWips (Knitter Notes v.2)
+- I'm currently in the process of developing a React version of my passion project, Knitter Notes, as part of v.2. You can find the repositories for all my projects below:
+
+- [KnitWips-Backend](https://github.com/distriss/knitwips-backend): The Server for my React version of Knitter Notes.
+- [KnitWips-Frontend](https://github.com/distriss/knitwips-frontend): The React Frontend of KnitWips (Knitter Notes v2).
+- [Previous Versions](https://github.com/distriss/knitter-notes): Previous versions of Knitter Notes.
+- [Other Projects](https://github.com/distriss): Other projects I've worked on.
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, SQL, React**
 
