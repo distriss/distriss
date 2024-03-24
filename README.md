@@ -23,8 +23,8 @@ Beyond coding, I enjoy knitting, gaming, and sketch art. I believe technology ha
 - [KnitWips-Backend](https://github.com/distriss/knitwips-backend): The Server for my React version of Knitter Notes.
   ![KnitWips](https://github.com/distriss/knitwips-frontend/blob/main/src/assets/knitwips-screen1.jpg)
 - [Previous Versions](https://github.com/distriss/knitter-notes): Previous versions of Knitter Notes.
-- [Other Projects](https://github.com/distriss): List-Ease, .
-         ![ListEase Gif](https://trissmarsh-dev.netlify.app/images/listease-sm.gif)
+- [Other Projects](https://github.com/distriss): List-Ease, Chat-App, Map-It a simple Blog & various freelance projects including, websites and MVPs.
+- ![ListEase Gif](https://trissmarsh-dev.netlify.app/images/listease-sm.gif)
     
 
 - 🌱 I’m currently learning **Data Structures & Algorithms, SQL, React**
