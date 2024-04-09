@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋😊, I'm Triss</h1>
 <p>
 Hello there! 
+  
 I'm a Software Developer with an unending passion for coding. 
 With a background in web development, I specialised in crafting dynamic websites, 
 CMS solutions, and products with third-party APIs. I’ve also developed various full-stack personal projects.
@@ -24,11 +25,11 @@ and look forward to contributing to exciting projects. Let's connect!
 - [KnitWips-Backend](https://github.com/distriss/knitwips-backend): The Server for my React version of Knitter Notes.
   ![KnitWips](https://github.com/distriss/knitwips-frontend/blob/main/src/assets/knitwips-screen1.jpg)
   ![KnitWips](https://github.com/distriss/knitwips-frontend/blob/main/src/assets/knitwips-screen3-featured.jpg)
-- [Other Projects](https://github.com/distriss?tab=repositories): List-Ease, Chat-App, Map-It a simple Blog & various freelance projects including, websites and MVPs.
+- [Other Projects](https://github.com/distriss): List-Ease, Chat-App, Map-It a simple Blog & various freelance projects including, websites and MVPs.
 - ![ListEase Gif](https://trissmarsh-dev.netlify.app/images/listease-sm.gif)
     
 
-- 🌱 I’m currently learning **Data Structures & Algorithms, SQL, React**
+- 🌱 I’m currently learning **Data Structures & Algorithms & SQL**
 
 - 👩‍💻 Most of my projects are available on my [Portfolio Website](https://trissmarsh-dev.netlify.app/)
 
