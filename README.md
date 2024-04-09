@@ -1,30 +1,30 @@
 <h1 align="center">Hi 👋😊, I'm Triss</h1>
 <p>
-Hello there! I'm a Software Developer with an unending passion for coding. My journey into tech started over 15 years ago when I began creating online spaces for friends. 
-  
-After a transformative gap year, I delved into freelancing, building websites, CMS solutions, and products with third-party APIs. I’ve also developed various full-stack personal projects.
+Hello there! 
+I'm a Software Developer with an unending passion for coding. 
+With a background in web development, I specialised in crafting dynamic websites, 
+CMS solutions, and products with third-party APIs. I’ve also developed various full-stack personal projects.
 
-Knitter-Notes, my web app masterpiece, was born out of a deep love for knitting.
-As a dedicated knitter, I aimed to create a digital haven for fellow enthusiasts, simplifying and
-enhancing their knitting experience. This project reflects my commitment to merging technology
-with personal passions and making a meaningful impact in a niche community.
+At 100Devs, I specialised in creating successful front and back-end web applications, 
+including RESTful APIs, CRUD apps and MVPs. 
+Notable achievements included Web Accessibility feature development, agile project management,
+and contributing to full-stack web apps using the MERN stack.
 
-I honed my skills at 100Devs, working on greenfield projects, optimizing large-scale applications, and mentoring newcomers. I'm also part of a CPACC study group, dedicated to upholding tech accessibility standards.
-
-Beyond coding, I enjoy knitting, gaming, and sketch art. I believe technology has the power to create a positive impact and benefit everyone and look forward to contributing to exciting projects. Let's connect!
+Beyond coding, I enjoy gaming, sketch art and knitting.
+I believe technology has the power to create a positive impact and benefit everyone
+and look forward to contributing to exciting projects. Let's connect!
 
 </p>
 
 
-# Check out KnitWips (Knitter Notes v.2)
-- I'm currently in the process of developing a React version of my passion project, Knitter Notes, as part of v.2. You can find the repositories for all my projects below:
+# Check out KnitWips
+- I'm currently in the process of developing a React version of my passion project, KnitWips. You can find the repositories for all my projects below:
 
-- [KnitWips-Frontend](https://github.com/distriss/knitwips-frontend): The React Frontend of KnitWips (Knitter Notes v2).
+- [KnitWips-Frontend](https://github.com/distriss/knitwips-frontend): The React Frontend of KnitWips 
 - [KnitWips-Backend](https://github.com/distriss/knitwips-backend): The Server for my React version of Knitter Notes.
   ![KnitWips](https://github.com/distriss/knitwips-frontend/blob/main/src/assets/knitwips-screen1.jpg)
   ![KnitWips](https://github.com/distriss/knitwips-frontend/blob/main/src/assets/knitwips-screen3-featured.jpg)
-- [Previous Versions](https://github.com/distriss/knitter-notes): Previous versions of Knitter Notes.
-- [Other Projects](https://github.com/distriss): List-Ease, Chat-App, Map-It a simple Blog & various freelance projects including, websites and MVPs.
+- [Other Projects](https://github.com/distriss?tab=repositories): List-Ease, Chat-App, Map-It a simple Blog & various freelance projects including, websites and MVPs.
 - ![ListEase Gif](https://trissmarsh-dev.netlify.app/images/listease-sm.gif)
     
 
