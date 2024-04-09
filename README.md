@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋😊, I'm Triss</h1>
-<p>
-Hello there! 
-  
+<p>  
 I'm a Software Developer with an unending passion for coding. 
 With a background in web development, I specialised in crafting dynamic websites, 
 CMS solutions, and products with third-party APIs. I’ve also developed various full-stack personal projects.
